@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Java | Kotlin | Phyton | Android Development | HTML | CSS | MySQL | PostgreSQL
+- 💻 &nbsp; Java | Kotlin | Phyton | Android Development | MySQL | PostgreSQL
 
-- 🌐 &nbsp; HTML 
+- 🌐 &nbsp; HTML | CSS
 
 <!--
 
