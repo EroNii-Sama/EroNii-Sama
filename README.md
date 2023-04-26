@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Java | MySQL
+- 💻 &nbsp; Java | Kotlin | Phyton | Android Development | HTML | CSS | MySQL | PostgreSQL
 
 - 🌐 &nbsp; HTML 
 
