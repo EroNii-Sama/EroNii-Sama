@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Nur University and coding stuffs.
 
-- 🌱 &nbsp; Learning about Java and MySQL.
+- 🌱 &nbsp; Learning about Java, Kotlin, Phyton, Android Development, HTML, CSS, MySQL, PostgreSQL.
 
 - ✍️ &nbsp; Pursuing Video Games Development as hobbies/side hustles.
 
