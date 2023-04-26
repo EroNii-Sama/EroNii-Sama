@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-[![EroNii Sama GitHub Stats](https://github-readme-stats.vercel.app/api?username=EroNii-Sama&show_icons=true)](https://github.com/EroNii-Sama)
+[![Saitam GitHub Stats](https://github-readme-stats.vercel.app/api?username=EroNii-Sama&show_icons=true)](https://github.com/EroNii-Sama)
 
 <br/>
 
